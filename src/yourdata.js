@@ -24,7 +24,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Saya seorang coder, suka dengan teknologi dan mengembangkan aplikasi. Saya memiliki pengalaman yang lumayan luas dalam pengembangan aplikasi. ",
+    "Saya seorang coder, suka dengan teknologi dan app development. Saya memiliki pengalaman yang lumayan luas dalam pengembangan aplikasi. ",
 
   //Contact Email
   contactEmail: "cahrizki.rf@gmail.com",
