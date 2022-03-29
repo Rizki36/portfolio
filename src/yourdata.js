@@ -11,6 +11,18 @@ import githubIcon from "./images/github.svg"
 import linkedinIcon from "./images/linkedin.svg"
 import instagramIcon from "./images/instagram.svg"
 
+import santrikita from "./images/work/12.png"
+import learnerhub from "./images/work/7.png"
+import inaf from "./images/work/9.png"
+import dikirim from "./images/work/11.png"
+import escoring from "./images/work/1.png"
+import epolling from "./images/work/2.png"
+import bep from "./images/work/3.png"
+import movieapp from "./images/work/4.png"
+import elibrary from "./images/work/6.png"
+
+import me from "./images/me.png"
+
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -38,7 +50,7 @@ export default {
       para:
         "Aplikasi administrasi untuk pondok, ditujukan untuk hackathon santri", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/12.png",
+      imageSrc: santrikita,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Dev-Kita/Santri-Kita",
       liveUrl: "https://santri-kita.vercel.app/",
@@ -48,7 +60,7 @@ export default {
       para:
         "Aplikasi kursus, Projek Freelance dari singapore, dibuat dengan React", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/7.png",
+      imageSrc: learnerhub,
       //Project URL - Add Your Project Url Here
       // url: "#",
     },
@@ -57,7 +69,7 @@ export default {
       para:
         "Aplikasi Todo untuk Project(On Going), Ditujukan untuk belajar typescript di FE, BE dan React Native", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/9.png",
+      imageSrc: inaf,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Rizki36/inaf",
       liveUrl: "https://inaf.vercel.app",
@@ -66,7 +78,7 @@ export default {
       title: "Dikirim.in", //Project Title - Add Your Project Title Here
       para: "Aplikasi pihak ke 3 untuk Pengiriman, dibuat dengan Codeigniter 3", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/11.png",
+      imageSrc: dikirim,
       //Project URL - Add Your Project Url Here
       liveUrl: "https://dikirim.in",
     },
@@ -75,7 +87,7 @@ export default {
       para:
         "Projek pertama dengan client, dan memiliki value besar saat saya masih sekolah. Dibuat dengan laravel", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/1.png",
+      imageSrc: escoring,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Rizki36/Escoring",
     },
@@ -84,7 +96,7 @@ export default {
       para:
         "Sub Projek dari E-Scoring, digunakan untuk polling nilai peserta lomba, Dibuat dengan C#", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/2.png",
+      imageSrc: epolling,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Rizki36/E-Polling",
     },
@@ -93,7 +105,7 @@ export default {
       para:
         "Aplikasi penghitung BEP, merupakan tugas pelajaran kwu sewaktu smk, Dibuat dengan Javascript", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/3.png",
+      imageSrc: bep,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Rizki36/bep-calculator",
       liveUrl: "https://bep-calculator-rizki36.vercel.app/",
@@ -103,7 +115,7 @@ export default {
       para:
         "Simple project javascript dengan Api pihak ketiga yaitu TMDB, ditujukan untuk submission dicoding.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/4.png",
+      imageSrc: movieapp,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Rizki36/movies-api",
       liveUrl: "https://movies-api-rizki36.vercel.app/",
@@ -112,7 +124,7 @@ export default {
       title: "Perpustakaan App", //Project Title - Add Your Project Title Here
       para: "Aplikasi perpustakaan simpel, dibuat dengan codeigniter 3", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: "work/6.png",
+      imageSrc: elibrary,
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Rizki36/e-library",
     },
@@ -148,7 +160,7 @@ export default {
     "Mulai tertarik untuk mendalami app development saat SMP, menggunakan C++, pascal. Dan saat SMA saya mencoba C# desktop serta PHP.",
   aboutParaFour:
     "Sudah 1 tahun lebih bekerja dengan php, dan sekarang sedang fokus ke Reactjs, Nextjs serta typescript untuk project Freelance.",
-  aboutImage: "./me.png",
+  aboutImage: me,
 
   //   End About Section ---------------------
 

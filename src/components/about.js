@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-section">
           <div className="content">
             <Fade bottom cascade>
-              <h1>Tentang Saya</h1>
+              <h1>About</h1>
             </Fade>
             <p>
               {data.aboutParaOne}
